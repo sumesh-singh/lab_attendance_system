@@ -32,7 +32,7 @@ A modern and user-friendly desktop application built with Python and CustomTkint
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lab_attendance_system.git
+git clone https://github.com/sumesh-singh/lab_attendance_system.git
 ```
 
 2. Install required packages:
